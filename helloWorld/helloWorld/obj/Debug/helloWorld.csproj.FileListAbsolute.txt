@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\student\Documents\GitHub\intro-to-C-sharp\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
